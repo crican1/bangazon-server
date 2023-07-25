@@ -1,0 +1,24 @@
+[
+  {
+      "model": "bangazonapi.user",
+      "pk": 1,
+      "fields": {
+          "first_name": "Evan",
+          "last_name": "Breland",
+          "profile_image_url": "https://photos.google.com/photo/AF1QipPLwy1658P_40_9QotPljhk60ZTvsovS-xf_uYI",
+          "email": "evan.breland@gmail.com",
+          "uid": 1
+      }
+  },
+  {
+      "model": "bangazonapi.user",
+      "pk": 2,
+      "fields": {
+          "first_name": "Jake",
+          "last_name": "Hardin",
+          "profile_image_url": "https://avatars.githubusercontent.com/u/108779760?v=4",
+          "email": "jakehardin13@gmail.com",
+          "uid": 2
+      }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "model": "bangazonapi.order",
+    "pk": 1,
+    "fields": {
+      "closed": true,
+      "created_on": "2023-02-23",
+      "user_id": 1
+    }
+  },
+  {
+    "model": "bangazonapi.order",
+    "pk": 2,
+    "fields": {
+      "closed": true,
+      "created_on": "2023-02-23",
+      "user_id": 2
+    }
+  }
+]

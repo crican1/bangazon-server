@@ -1,0 +1,90 @@
+[
+  {
+    "model": "bangazonapi.product",
+    "pk": 1,
+    "fields": {
+    "product_image": "https://m.media-amazon.com/images/I/51ojzJk77qL._SX522_.jpg",
+    "title": "Xbox Series X",
+    "description": "The fastest, most powerful Xbox ever. Explore rich new worlds with 12 teraflops of raw graphic processing power, DirectX ray tracing, a custom SSD, and 4K gaming",
+    "price": 499,
+    "units_available": 10
+    }
+  },
+    {
+    "model": "bangazonapi.product",
+    "pk": 2,
+    "fields": {
+    "product_image": "https://m.media-amazon.com/images/I/51eOztNdCkL.jpg",
+    "title": "Playstation 5",
+    "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. Experience lightning fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio, and an all-new generation of incredible PlayStation games.",
+    "price": 499,
+    "units_available": 10
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 3,
+    "fields": {
+      "product_image": "https://m.media-amazon.com/images/I/71pIS8f417L._SX522_.jpg",
+      "title": "Nintendo Switch",
+      "description": "The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers.",
+      "price": 299.99,
+      "units_available": 6
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 4,
+    "fields": {
+      "product_image": "https://m.media-amazon.com/images/I/61LbvlbShHL._SX522_.jpg",
+      "title": "Ring Video Doorbell 3",
+      "description": "1080p HD video doorbell with enhanced features that let you see, hear, and speak to anyone from your phone, tablet, or PC.",
+      "price": 149.99,
+      "units_available": 6
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 5,
+    "fields": {
+      "product_image": "https://m.media-amazon.com/images/I/5116AHMHkAL._AC_SX679_.jpg",
+      "title": "Shoei RF-1400 Prologue Street Helmet-TC-11-M",
+      "description": "One of the best motorcyle helmets out there.",
+      "price": 679.99,
+      "units_available": 4
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 6,
+    "fields": {
+      "product_image": "https://m.media-amazon.com/images/I/41AiGCHnWQL._AC_SX679_.jpg",
+      "title": "Cardo Systems FREECOM 2X Motorcycle 2-Way Bluetooth Communication System Headset",
+      "description": "Communication system to listen to music, talk on the phone, or talk to other nearby riders.",
+      "price": 188.96,
+      "units_available": 3
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 7,
+    "fields": {
+      "product_image": "https://m.media-amazon.com/images/I/71zWWzVvSLL._AC_SX679_.jpg",
+      "title": "Keurig K-Duo Single Serve K-Cup Pod & Carafe Coffee Maker",
+      "description": "Coffee maker that can use K-Cups or ground coffee beans.",
+      "price": 149.62,
+      "units_available": 8
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 8,
+    "fields": {
+      "product_image": "https://m.media-amazon.com/images/I/51JTZ5qwHvL._AC_SX679_.jpg",
+      "title": "Ember Temperature Control Smart Mug 2, 14 Oz",
+      "description": "Ember Coffee Mug with Longer Lasting Battery: Our updated smart coffee mug's extended battery life keeps your drink at your preferred temperature (between 120°F - 145°F) for up to 80 minutes on a full charge or all day on its redesigned charging coaster",
+      "price": 132.98,
+      "units_available": 7
+    }
+  }
+]

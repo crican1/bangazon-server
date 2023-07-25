@@ -1,0 +1,42 @@
+[
+  {
+    "model": "bangazonapi.orderproduct",
+    "pk": 1,
+    "fields": {
+      "order_id": 1,
+      "order_item_id": 1
+    }
+  },
+  {
+    "model": "bangazonapi.orderproduct",
+    "pk": 2,
+    "fields": {
+      "order_id": 1,
+      "order_item_id": 2
+    }
+  },
+  {
+    "model": "bangazonapi.orderproduct",
+    "pk": 3,
+    "fields": {
+      "order_id": 1,
+      "order_item_id": 3
+    }
+  },
+  {
+    "model": "bangazonapi.orderproduct",
+    "pk": 4,
+    "fields": {
+      "order_id": 2,
+      "order_item_id": 5
+    }
+  },
+  {
+    "model": "bangazonapi.orderproduct",
+    "pk": 5,
+    "fields": {
+      "order_id": 2,
+      "order_item_id": 6
+    }
+  }
+]
