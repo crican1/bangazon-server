@@ -4,7 +4,7 @@
     "pk": 1,
     "fields": {
       "user_id": 1,
-      "payment_type": "Credit",
+      "payment_type": 1,
       "user_order_id": 1
     }
   },
@@ -13,7 +13,7 @@
     "pk": 2,
     "fields": {
       "user_id": 2,
-      "payment_type": "Debit",
+      "payment_type": 2,
       "user_order_id": 2
     }
   }
